@@ -21,10 +21,10 @@ This is the Desktop design.
 
 ![Alt Text](desktop-design.jpg)
 
-This is the Mobile design.
+This is the design when the site is in an active state.
 
 ![Alt Text](active-states.jpg)
 
-This is the design when the site is in an active state.
+This is the Mobile design.
 
 ![Alt Text](mobile-design.jpg)
