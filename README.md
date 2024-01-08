@@ -17,4 +17,4 @@ This project demonstrates the creation of a responsive blog card using HTML and 
 ```
 ## Screenshots
 
-![Alt Text](assets\desktop-design)
+![Alt Text](desktop-design.jpeg)
