@@ -14,4 +14,7 @@ This project demonstrates the creation of a responsive blog card using HTML and 
 
    ```bash
    git clone https://github.com/your-username/blog-card-project.git
+```
+## Screenshots
 
+![Alt Text](assets\desktop-design)
