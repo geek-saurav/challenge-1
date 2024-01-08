@@ -10,7 +10,8 @@ This project demonstrates the creation of a responsive blog card using HTML and 
 
 ## Getting Started
 
-1. Clone the repository:
+ Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/blog-card-project.git
+
