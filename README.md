@@ -17,10 +17,14 @@ This project demonstrates the creation of a responsive blog card using HTML and 
 ```
 ## Screenshots
 
+This is the Desktop design.
+
 ![Alt Text](desktop-design.jpg)
 
-![Alt Text](mobile-design.jpg)
+This is the Mobile design.
 
 ![Alt Text](active-states.jpg)
 
+This is the design when the site is in an active state.
 
+![Alt Text](mobile-design.jpg)
